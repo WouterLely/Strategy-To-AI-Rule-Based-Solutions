@@ -1,4 +1,4 @@
-# 🪄 Strategy-To-AI-Rule-Based: From Strategy to Actionable Solutions
+## 🪄 Strategy-To-AI-Rule-Based: From Strategy to Actionable Solutions
 
 **Simplicity: Strategy → Tech Solutions → Measurable Impact**  
 
@@ -6,15 +6,15 @@ Welcome to my spellbook of transformations. This repository demonstrates how **b
 
 ---
 
-## 🕰️ A Short History of Rule-Based AI
+🕰️ A Short History of Rule-Based AI
 Rule-based AI, also called **expert systems**, emerged in the 1960s–1970s as one of the first practical AI approaches.  
-These systems rely on **explicit "if–then" rules** written by humans to make decisions, diagnose problems, or provide recommendations.  
-They don’t learn from data like modern machine learning, but they are **transparent, fast, and easy to understand**, which makes them ideal for business applications where clarity matters.  
-This is where **BI meets AI** — Rule based AI could be done within mondern day business intelligence tools to **visualize and operationalize simple, rules-driven AI solutions** in everyday decision-making.
+These systems rely on **explicit "if–then" rules** written by humans to make decisions, diagnose problems, or provide recommendations. They don’t learn from data like modern machine learning, but they are **transparent, fast, and easy to understand**, which makes them ideal for business applications where clarity matters.
+
+Basicly this is where **BI meets AI** — Rule based AI could be done within mondern day business intelligence tools to **visualize and operationalize simple, rules-driven AI solutions** in everyday decision-making.
 
 ---
 
-## ⚡ Why This Repository Exists
+⚡ Why This Repository Exists
 Complexity isn’t the enemy — **unmanaged complexity is**. Across organizations, strategy often gets lost in endless slides or overwhelming data. This repository shows how to:
 - Turn **strategy into measurable results**
 - Risk **reduction of overhyping** and implementing complex AI models
@@ -25,9 +25,9 @@ Complexity isn’t the enemy — **unmanaged complexity is**. Across organizatio
 
 ---
 
-## ✨ What You’ll Find
+✨ What You’ll Find
 - Real life example cases:  
-- Rules that could be used as a predictor  
+- Rules that could be used as a predictor which could be implemented by a BI magician
 - Simple project ideas that will make the organisation get used to before addoption of more advanced AI
 
 Each project demonstrates:
@@ -37,7 +37,7 @@ Each project demonstrates:
 
 ---
 
-## 🧭 Who This is For
+🧭 Who This is For
 - **Strategists** looking to understand practical AI & rule-based applications
 - **Data teams** wanting inspiration for actionable solutions
 - **Practitioners** bridging boardroom strategy with technical execution
@@ -45,7 +45,7 @@ Each project demonstrates:
 
 ---
 
-## 🚫 What This Is Not
+🚫 What This Is Not
 - ❌ Production-ready code
 - ❌ Proprietary company IP
 - ❌ A showcase of complex ML pipelines without context
@@ -54,7 +54,7 @@ This repository is about **storytelling, frameworks, and applied simplicity** �
 
 ---
 
-## 💡 How to Use
+💡 How to Use
 1. Explore the use-case stories.  
 2. Study the illustrative code and tables.  
 3. Adapt frameworks to your own organization.  
