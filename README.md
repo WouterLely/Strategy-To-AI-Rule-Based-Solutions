@@ -7,6 +7,7 @@ Welcome to my spellbook of transformations. This repository demonstrates how **b
 ---
 
 🕰️ A Short History of Rule-Based AI
+
 Rule-based AI, also called **expert systems**, emerged in the 1960s–1970s as one of the first practical AI approaches.  
 These systems rely on **explicit "if–then" rules** written by humans to make decisions, diagnose problems, or provide recommendations. They don’t learn from data like modern machine learning, but they are **transparent, fast, and easy to understand**, which makes them ideal for business applications where clarity matters.
 
@@ -15,6 +16,7 @@ Basicly this is where **BI meets AI** — Rule based AI could be done within mon
 ---
 
 ⚡ Why This Repository Exists
+
 Complexity isn’t the enemy — **unmanaged complexity is**. Across organizations, strategy often gets lost in endless slides or overwhelming data. This repository shows how to:
 - Turn **strategy into measurable results**
 - Risk **reduction of overhyping** and implementing complex AI models
